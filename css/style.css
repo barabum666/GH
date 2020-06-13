@@ -812,7 +812,7 @@ textarea {
 	display: flex;
 	-ms-align-items: center;
 	align-items: center;
-	transition: all 1s ease 0;
+	transform: all 1s ease 0;
 }
 .form-get__button span{
 	margin-right: 10px;
