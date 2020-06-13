@@ -622,7 +622,7 @@ textarea {
 # Components
 --------------------------------------------------------------*/
 .main_page {
-	background: url(../images/bgTop.png) top left/ 100% no-repeat;
+	background: url(../images/bgTop.jpg) top left/ 100% no-repeat;
 	overflow: hidden;
 	position: relative;
 }
@@ -674,7 +674,7 @@ textarea {
 }
 .improve {
 	width: 100%;
-	background: url(../images/improve/bg01.png) 0 0 no-repeat;
+	background: url(../images/improve/bg01.jpg) 0 0 no-repeat;
 	padding-top: 60px;
 }
 .improve__container {
@@ -884,7 +884,7 @@ textarea {
 }
 .finances {
 	padding: 75px 0 150px;
-	background: url(../images/finances.png) right top no-repeat;
+	background: url(../images/finances.jpg) right top no-repeat;
 }
 .finances__intro_title {
 	color: #32325d;
