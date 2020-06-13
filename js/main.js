@@ -6,7 +6,7 @@ $(document).ready(function(){
 
 	//Animation
 	var windowHeight = $(window).height();
-	var el = document.querySelectorAll('#animated');
+	var el = $(document).querySelectorAll('#animated');
 	$(document).on('scroll', function() {
 		$(el).each(function() {
 			var self = $(this),
