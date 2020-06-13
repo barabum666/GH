@@ -83,6 +83,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
   src: local("☺"), url("../fonts/Brown-Regular.woff") format("woff"), url("../fonts/Brown-Regular.ttf") format("truetype"), url("../fonts/Brown-Regular.svg") format("svg");
   font-weight: 400;
   font-style: normal;
+  font-display: swap;
 }
 @font-face {
   font-family: "Brown";
@@ -90,6 +91,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
   src: local("☺"), url("../fonts/Brown-Light.woff") format("woff"), url("../fonts/Brown-Light.ttf") format("truetype"), url("../fonts/Brown-Light.svg") format("svg");
   font-weight: 300;
   font-style: normal;
+  font-display: swap;
 }
 @font-face {
 	font-family: "Brown";
@@ -97,6 +99,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 	src: local('☺'), url('../fonts/Brown-Bold-Alt.woff') format('woff'), url('../fonts/Brown-Bold-Alt.ttf') format('truetype'), url('../fonts/Brown-Bold-Alt.svg') format('svg');
 	font-weight: 700;
 	font-style: normal;
+	font-display: swap;
 }
 
 /**
